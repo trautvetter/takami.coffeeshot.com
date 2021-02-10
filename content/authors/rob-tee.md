@@ -6,6 +6,5 @@ social:
 - title: Instagram
   url: https://www.instagram.com/travetters/
 featured: true
-draft: true
 
 ---
