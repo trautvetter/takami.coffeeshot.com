@@ -5,7 +5,7 @@ avatar: ''
 social:
 - title: Instagram
   url: https://www.instagram.com/travetters/
-featured: false
+featured: true
 draft: true
 
 ---
