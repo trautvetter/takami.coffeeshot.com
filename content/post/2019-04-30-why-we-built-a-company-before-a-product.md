@@ -1,6 +1,6 @@
 ---
 title: Why we built a company before building a product
-date: 2019-06-26T00:00:00+12:00
+date: 2021-06-26T22:00:00+12:00
 hero: "/images/hero-6.jpg"
 excerpt: this is my excerpt
 timeToRead: 3
